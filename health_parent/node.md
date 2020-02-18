@@ -6,3 +6,6 @@
 * 数据库创建
 * 实体类封装
 * 学习分页助手
+* vue element ui
+* dubbo
+* xml配置
